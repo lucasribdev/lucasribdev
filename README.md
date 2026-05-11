@@ -1,16 +1,38 @@
-## Hi there 👋
+# Lucas Ribeiro
 
-<!--
-**lucasribdev/lucasribdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer focused on building scalable, maintainable and high-performance web applications.
 
-Here are some ideas to get you started:
+I have 7+ years of experience working with React, TypeScript, frontend architecture, micro-frontends and SaaS platforms across healthcare, education, e-commerce and gaming products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- React, TypeScript, JavaScript
+- Micro-frontends, Module Federation, Design Systems
+- TanStack Router, TanStack Query, Tailwind CSS
+- Node.js, NestJS, PostgreSQL, Supabase
+- Frontend architecture, performance and developer experience
+
+## Featured projects
+
+### Templo
+A platform for discovering gaming communities, servers, clans and groups.
+
+Built with React, TypeScript, TanStack Router, TanStack Query, Supabase, PostgreSQL, Tailwind CSS and Cloudflare Workers.
+
+https://templo.club
+
+### Social Skate
+Institutional portal for a nonprofit organization supporting children through skateboarding.
+
+Built with React, Tailwind CSS and Decap CMS integrated with GitHub.
+
+https://socialskate.pages.dev
+
+### Sk8 Spots
+A community-driven app to help skaters discover and register skate spots around the world.
+
+## Links
+
+- Portfolio: https://lucasrib.dev
+- LinkedIn: https://www.linkedin.com/in/lucasribdev
+- Email: contato@lucasrib.dev
