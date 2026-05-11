@@ -28,9 +28,6 @@ Built with React, Tailwind CSS and Decap CMS integrated with GitHub.
 
 https://socialskate.pages.dev
 
-### Sk8 Spots
-A community-driven app to help skaters discover and register skate spots around the world.
-
 ## Links
 
 - Portfolio: https://lucasrib.dev
