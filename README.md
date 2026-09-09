@@ -45,4 +45,4 @@ https://socialskate.pages.dev
 
 - Portfolio: https://lucasrib.dev
 - LinkedIn: https://www.linkedin.com/in/lucasribdev
-- Email: contato@lucasrib.dev
+- Email: contact@lucasrib.dev
